@@ -1,9 +1,0 @@
-{
-	"ip":"ca.terohost.online",
-	"port": 3345,
-	"name": "afkbot1",
-	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register (taloptalop) (taloptalop)",
-	"login-cmd":"/login (taloptalop)"
-}
